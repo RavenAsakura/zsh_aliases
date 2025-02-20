@@ -5,7 +5,6 @@
 #Email: wastelandss@icloud.com
 ##Custom  Scan
 
-alias scan='/home/angellore/Tools/Scans/barrido.sh'
 alias cat='batcat'
 
 #Alias colorsls
