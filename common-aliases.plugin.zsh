@@ -1,5 +1,5 @@
 #Author:  Angel P.
-#Email:
+#Email: wastelandss@icloud.com
 
 #Alias colorsls
 alias l="colorls -1"
